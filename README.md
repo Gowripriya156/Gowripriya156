@@ -8,8 +8,10 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&pause=100&color=397902&background=E8FF5240&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%E2%9D%A4"
-       alt="Welcome to my profile!">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&pause=100&color=397902&background=E395FF40&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%E2%9D%A4"
+       alt="Welcome to my profile!" />
+</p>
 
 </div>
 
