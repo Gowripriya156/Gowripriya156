@@ -14,8 +14,10 @@
 </p>
 
 </div>
-
-
+<h2 align="center">📊 Contribution Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowripriya156&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
 
 ### Computer Science Engineering Student | Developer | Community Leader | Lifelong Learner
 
@@ -24,6 +26,8 @@ I'm a Computer Science and Engineering student at **Rajiv Gandhi Institute of Te
 I enjoy learning how things work — from **algorithms and data structures** to **machine learning, backend development, databases, operating systems, and embedded systems**. I believe the best way to learn technology is by building, experimenting, and sharing knowledge with others.
 
 ---
+
+
 
 ##  About Me
 
