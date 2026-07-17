@@ -157,3 +157,8 @@ Feel free to explore my repositories and follow along as I continue building and
 > *Success isn't just about reaching the destination — it's about becoming better with every step of the journey.*
 
 ⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlYjRrOTJhZzhjbnQyMGl0NnJxYjRkMnF4OWJyMGxodHR2OGJ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n0fORlQXPlozF9cXmT/giphy.gif"
+       width="300"
+       
+</p>
