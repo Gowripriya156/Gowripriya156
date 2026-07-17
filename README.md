@@ -1,9 +1,19 @@
 # Hi, I'm Gowripriya M J 👋
 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&pause=100&color=397902&background=E8FF5240&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%E2%9D%A4" alt="Welcome to my profile!" />
-</p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFtd2c0czl6bG0wd3BzcGN0Z3RydmI1em8yejNqdmIyeHBvNDV2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/azfRPSYO29nLOy1wvl/giphy.gif"
+       width="200"
+       alt="Hello GIF">
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&pause=100&color=397902&background=E8FF5240&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%E2%9D%A4"
+       alt="Welcome to my profile!">
+
+</div>
+
+
 
 ### Computer Science Engineering Student | Developer | Community Leader | Lifelong Learner
 
