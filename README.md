@@ -1,5 +1,10 @@
 # Hi, I'm Gowripriya M J 👋
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=31&pause=100&color=397902&background=E8FF5240&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+%E2%9D%A4" alt="Welcome to my profile!" />
+</p>
+
 ### Computer Science Engineering Student | Developer | Community Leader | Lifelong Learner
 
 I'm a Computer Science and Engineering student at **Rajiv Gandhi Institute of Technology, Kottayam**, passionate about exploring technology, solving problems, and building things that make an impact.
