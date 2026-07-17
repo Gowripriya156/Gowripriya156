@@ -119,6 +119,14 @@ Every repository here represents something I've learned, attempted, improved, or
 
 ---
 
+## 🌍 Languages
+
+* **English** — Proficient
+* **Malayalam** — Native
+* **Tamil** — Conversational
+* **Hindi** — Conversational
+
+
 ## 🤝 Let's Connect
 
 I'm always happy to connect with people interested in **technology, software development, open source, communities, hackathons, and collaborative learning**.
